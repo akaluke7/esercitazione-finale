@@ -1,0 +1,38 @@
+############# TORNITURA
+
+%%%% OP10 %%%%
+Montare la barra su autocentrante
+Sfacciatura pezzo (asportare 0.2mm di svm)
+Tornitura D12 per L21.9 (0.1 svm max)     (svm 0.2 sul D)
+    - IT7 -> Rettifica
+Gola di scarico per rettifica a L22 0+0.03    (*)
+Tornitura D16 per L(3+svm+l_ut+"gioco")
+Esecuzione del foro da centri
+Foratura D<Dforo per svm di finitura
+Esecuzione smussi
+    foro
+    d12
+Taglio del pezzo a L25.2 0-0.03 (*)
+Deporre il pezzo in cassetta
+
+%%%% OP20 %%%%
+Capovolgere il pezzo
+Sfacciatura (svm 0.2) per realizzare L2 0-0.03
+Esecuzione smussi
+    foro
+    d16
+Alesatura del foro (*)
+    - H7 -> alesatore
+    - H8 -> idem
+    - H9 -> tornitura interna
+
+
+############# RETTIFICA
+%%%% OP30 %%%%
+Montaggio tra le punte con trascinatore
+Montaggio misto (autocentrante con puntalino + contropunta)
+Rettifica d12 m7, n7 per L22 (*)
+
+############# COLLAUDO
+%%%% OP40 %%%%
+Controllo quote (con toll D1, d2, L1, L2)
