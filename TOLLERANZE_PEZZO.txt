@@ -1,6 +1,4 @@
-Toll. Φ8	Toll. Φ12	Φ Barra		DIm. lotto produttivo
-H9		n7		17		150
-			
-			
-			
-			
+Toll. Φ8	H9
+Toll. Φ12	n7
+Φ Barra		17
+DIm. lotto produttivo   150
